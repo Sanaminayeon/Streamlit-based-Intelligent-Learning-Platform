@@ -1,4 +1,4 @@
-# 2024SE-Teamwork
+# Streamlit-based Intelligent Learning Platform
 
 # 后端服务器采用Uvicorn结合Fastapi 前端采用streamlit框架
 
